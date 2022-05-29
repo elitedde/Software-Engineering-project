@@ -13,5 +13,5 @@ It consists in developing a small project in Java, delivering:
 
 5. estimation document
 
-6. user manual. 
+6. user manual
 
